@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PARKALGO
+</name>
+</assembly>
+<members>
+<member name="P:PARK_ALGO.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PARK_ALGO.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PARK_ALGO.My.Resources.Resources.candy_loading_gif_by_0ctans_d3iyuuq">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARK_ALGO.My.Resources.Resources.click">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARK_ALGO.My.Resources.Resources.loading136">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PARK_ALGO.My.Resources.Resources.Untitled_004">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PARK_ALGO.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
